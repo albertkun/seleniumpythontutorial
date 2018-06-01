@@ -7,5 +7,6 @@ https://github.com/mozilla/geckodriver/releases
 http://selenium-python.readthedocs.io/installation.html
 
 
-#selenium tut
+# selenium tut
+
 https://realpython.com/modern-web-automation-with-python-and-selenium/
